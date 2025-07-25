@@ -16,7 +16,7 @@ BlazorExpress.Bulma - Starter Templates for .NET 8 and .NET 9
 
    <img alt="BlazorExpress Bulma - WebApp - Auto Render Mode - Global Location" src="https://github.com/user-attachments/assets/219c61ab-cdfb-4dc3-9632-78fe169842fa" />
 
-1. [BlazorExpress Bulma - WebApp - Auto Render Mode - Per Page/Component Location](https://github.com/BlazorExpress/blazorexpress-bulma-starter-templates/tree/main/src/StarterProjects) - TODO: Add
+1. [BlazorExpress Bulma - WebApp - Auto Render Mode - Per Page/Component Location](https://github.com/BlazorExpress/blazorexpress-bulma-starter-templates/tree/main/src/StarterProjects)
 
    <img alt="BlazorExpress Bulma - WebApp - Auto Render Mode - Per Page/Component Location" src="https://github.com/user-attachments/assets/4d35186e-b90e-4e0b-ae9b-22dc8d4ab879" />
 
