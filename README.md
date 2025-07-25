@@ -10,9 +10,15 @@ BlazorExpress.Bulma - Starter Templates for .NET 8 and .NET 9
 
 1. [BlazorExpress Bulma - WebApp - Server - Global](https://github.com/BlazorExpress/blazorexpress-bulma-starter-templates/tree/main/src/StarterProjects/NET8.ServerApp)
 
-   <img alt="BlazorExpress Bulma - WebApp - Server - Global" src="https://github.com/user-attachments/assets/fa3c0bee-3c15-4a1a-a04d-cb0192786c95" />
+   <img alt="BlazorExpress Bulma - WebApp - Server Render mode - Global Location" src="https://github.com/user-attachments/assets/fa3c0bee-3c15-4a1a-a04d-cb0192786c95" />
 
-1. [BlazorExpress Bulma - WebApp - Auto - Global](https://github.com/BlazorExpress/blazorexpress-bulma-starter-templates/tree/main/src/StarterProjects) - TODO: Add
+1. [BlazorExpress Bulma - WebApp - Auto Render Mode - Global Location](https://github.com/BlazorExpress/blazorexpress-bulma-starter-templates/tree/main/src/StarterProjects/NET8.ServerAppAutoGlobal)
+
+   <img alt="BlazorExpress Bulma - WebApp - Auto Render Mode - Global Location" src="https://github.com/user-attachments/assets/219c61ab-cdfb-4dc3-9632-78fe169842fa" />
+
+1. [BlazorExpress Bulma - WebApp - Auto Render Mode - Per Page/Component Location](https://github.com/BlazorExpress/blazorexpress-bulma-starter-templates/tree/main/src/StarterProjects) - TODO: Add
+
+   <img alt="BlazorExpress Bulma - WebApp - Auto Render Mode - Per Page/Component Location" src="https://github.com/user-attachments/assets/4d35186e-b90e-4e0b-ae9b-22dc8d4ab879" />
 
 1. [BlazorExpress Bulma - MAUI Blazor Hybrid App](https://github.com/BlazorExpress/blazorexpress-bulma-starter-templates/tree/main/src/StarterProjects) - TODO: Add
 
