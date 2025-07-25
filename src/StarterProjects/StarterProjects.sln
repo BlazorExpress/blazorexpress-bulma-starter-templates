@@ -9,9 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "net8", "net8", "{02EA681E-C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET8.WebAssemblyApp", "NET8.WebAssemblyApp\NET8.WebAssemblyApp.csproj", "{DA387E9C-5E2A-48B8-99C7-DE2D0E62C3A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET8.ServerAppAutoGlobal", "NET8.ServerAppAutoGlobal\NET8.ServerAppAutoGlobal\NET8.ServerAppAutoGlobal.csproj", "{65209FFC-947D-4588-BB7C-5D7CE9420CD7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET8.WebAppAutoGlobal", "NET8.ServerAppAutoGlobal\NET8.ServerAppAutoGlobal\NET8.WebAppAutoGlobal.csproj", "{65209FFC-947D-4588-BB7C-5D7CE9420CD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET8.ServerAppAutoGlobal.Client", "NET8.ServerAppAutoGlobal\NET8.ServerAppAutoGlobal.Client\NET8.ServerAppAutoGlobal.Client.csproj", "{2F81413B-6020-4E6C-8866-37388D69B1C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET8.WebAppAutoGlobal.Client", "NET8.ServerAppAutoGlobal\NET8.ServerAppAutoGlobal.Client\NET8.WebAppAutoGlobal.Client.csproj", "{2F81413B-6020-4E6C-8866-37388D69B1C9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebAssemblyStandaloneApp", "WebAssemblyStandaloneApp", "{FB711220-CAE1-4EF4-8F30-603D55306FC3}"
 EndProject

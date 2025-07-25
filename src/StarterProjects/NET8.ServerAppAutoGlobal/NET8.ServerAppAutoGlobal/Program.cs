@@ -1,5 +1,5 @@
-using NET8.ServerAppAutoGlobal.Client.Pages;
-using NET8.ServerAppAutoGlobal.Components;
+using NET8.WebAppAutoGlobal.Client.Pages;
+using NET8.WebAppAutoGlobal.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -30,6 +30,6 @@ app.UseAntiforgery();
 app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode()
     .AddInteractiveWebAssemblyRenderMode()
-    .AddAdditionalAssemblies(typeof(NET8.ServerAppAutoGlobal.Client._Imports).Assembly);
+    .AddAdditionalAssemblies(typeof(NET8.WebAppAutoGlobal.Client._Imports).Assembly);
 
 app.Run();
