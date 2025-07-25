@@ -8,7 +8,7 @@ BlazorExpress.Bulma - Starter Templates for .NET 8 and .NET 9
 
    <img alt="BlazorExpress Bulma - WebAssembly - Standalone App" src="https://github.com/user-attachments/assets/61c1a6cf-e511-43c4-a36c-552e769c67d2" />
 
-1. [BlazorExpress Bulma - WebApp - Server Render Mode - Global Location](https://github.com/BlazorExpress/blazorexpress-bulma-starter-templates/tree/main/src/StarterProjects/NET8.ServerApp)
+1. [BlazorExpress Bulma - WebApp - Server Render Mode - Global Location](https://github.com/BlazorExpress/blazorexpress-bulma-starter-templates/tree/main/src/StarterProjects/NET8.WebAppServerGlobal)
 
    <img alt="BlazorExpress Bulma - WebApp - Server Render mode - Global Location" src="https://github.com/user-attachments/assets/fa3c0bee-3c15-4a1a-a04d-cb0192786c95" />
 
