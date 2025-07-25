@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET8.ServerApp", "NET8.ServerApp\NET8.ServerApp.csproj", "{CA8BC439-1F83-4224-A963-9C8A8610D832}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET8.WebAppServerGlobal", "NET8.ServerApp\NET8.WebAppServerGlobal.csproj", "{CA8BC439-1F83-4224-A963-9C8A8610D832}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "net8", "net8", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject

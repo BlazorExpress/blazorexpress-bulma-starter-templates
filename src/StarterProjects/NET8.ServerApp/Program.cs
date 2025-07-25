@@ -1,4 +1,4 @@
-using NET8.ServerApp.Components;
+using NET8.WebAppServerGlobal.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
